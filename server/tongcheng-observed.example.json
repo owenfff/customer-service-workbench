@@ -1,0 +1,9 @@
+{
+  "layout": "fenghuo_observed_20261023",
+  "calibrated": false,
+  "order_reference_verified": false,
+  "multi_conversation": false,
+  "editor": "#imDialog textarea",
+  "editor_is_input": true,
+  "send": "#imDialog button:has-text('发 送')"
+}
